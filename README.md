@@ -1,7 +1,7 @@
 ### Hi there I'm James Zhang👋
 
 - 🔭 I’m currently working on some interesting projects!
-- 🌱 I’m currently learning React
+
 ---
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszhang22)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszhang22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
