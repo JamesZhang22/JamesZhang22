@@ -1,7 +1,7 @@
 ### Hi there I'm James Zhang👋
 
 # 💫 About Me:
-Hey, I am a second year studying Computer Science @ uWaterloo. I am currently focused on fullstack development. 
+Hey, I am a third year studying Computer Science @ uWaterloo. I am currently focused on fullstack development. 
 
 
 ## 🌐 Socials:
